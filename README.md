@@ -1,4 +1,6 @@
-# Home Assistant Add-ons: The official repository
+# Home Assistant Add-ons: Forked from official repository
+
+NOT TO BE USED
 
 Add-ons for Home Assistant, allow you to extend the functionality
 around your Home Assistant setup. These add-ons can consist of an application
